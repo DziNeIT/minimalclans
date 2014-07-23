@@ -1,4 +1,4 @@
-package com.github.dzineit.minimalclans;
+package pw.ollie.minimalclans;
 
 import java.util.UUID;
 
@@ -8,7 +8,7 @@ import org.bukkit.event.EventPriority;
 import org.bukkit.event.Listener;
 import org.bukkit.event.entity.EntityDamageByEntityEvent;
 
-import com.github.dzineit.minimalclans.clan.ClanManager;
+import pw.ollie.minimalclans.clan.ClanManager;
 
 public final class MCListener implements Listener {
 	private final MinimalClans plugin;

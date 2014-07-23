@@ -1,4 +1,4 @@
-package com.github.dzineit.minimalclans;
+package pw.ollie.minimalclans;
 
 import java.io.File;
 import java.io.IOException;
@@ -6,7 +6,7 @@ import java.io.IOException;
 import org.bukkit.configuration.file.YamlConfiguration;
 import org.bukkit.plugin.java.JavaPlugin;
 
-import com.github.dzineit.minimalclans.clan.ClanManager;
+import pw.ollie.minimalclans.clan.ClanManager;
 
 public final class MinimalClans extends JavaPlugin {
 	private ClanManager clanManager;

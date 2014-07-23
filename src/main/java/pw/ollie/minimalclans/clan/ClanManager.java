@@ -1,4 +1,4 @@
-package com.github.dzineit.minimalclans.clan;
+package pw.ollie.minimalclans.clan;
 
 import java.io.File;
 import java.io.IOException;
@@ -15,9 +15,9 @@ import org.bson.BasicBSONDecoder;
 import org.bson.BasicBSONEncoder;
 import org.bson.BasicBSONObject;
 
-import com.google.common.io.Files;
+import pw.ollie.minimalclans.MinimalClans;
 
-import com.github.dzineit.minimalclans.MinimalClans;
+import com.google.common.io.Files;
 
 public final class ClanManager {
 	private final MinimalClans plugin;

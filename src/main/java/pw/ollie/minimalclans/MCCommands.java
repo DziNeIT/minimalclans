@@ -1,4 +1,4 @@
-package com.github.dzineit.minimalclans;
+package pw.ollie.minimalclans;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -11,8 +11,8 @@ import org.bukkit.command.CommandExecutor;
 import org.bukkit.command.CommandSender;
 import org.bukkit.entity.Player;
 
-import com.github.dzineit.minimalclans.clan.Clan;
-import com.github.dzineit.minimalclans.clan.ClanManager;
+import pw.ollie.minimalclans.clan.Clan;
+import pw.ollie.minimalclans.clan.ClanManager;
 
 public final class MCCommands implements CommandExecutor {
 	private final MinimalClans plugin;

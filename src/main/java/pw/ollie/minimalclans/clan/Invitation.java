@@ -1,4 +1,4 @@
-package com.github.dzineit.minimalclans.clan;
+package pw.ollie.minimalclans.clan;
 
 import java.util.UUID;
 
